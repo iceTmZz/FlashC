@@ -90,6 +90,7 @@ export default function Login() {
             >
               Sign Up
             </button>
+            <button>hello</button>
           </div>
         </form>
       </div>
